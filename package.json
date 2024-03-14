@@ -1,6 +1,6 @@
 {
   "name": "vietnamese-lunar-date",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert a Gregorian date to a Vietnamese luni-solar date",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "dependencies": {
     "convert-local-date-npm": "^1.0.4",
     "vietnamese-lunar-date": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinhnguyen24/vietnamese-lunar-calendar"
   },
   "keywords": [
     "date",
